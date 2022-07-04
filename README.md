@@ -11,9 +11,18 @@ I have some projects I worked on before and there are some random codes that I u
 
 ## Skils:
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+<a img src="https://github.com/BARAA-201/BARAA-201/blob/main/logos/html5-with-wordmark-color.svg" align="left" height="48" width="48" ></a>
+<a href=""><img src="https://github.com/BARAA-201/BARAA-201/blob/main/logos/css-3-svgrepo-com.svg" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/BARAA-201/BARAA-201/blob/main/logos/javascript.svg" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/BARAA-201/BARAA-201/blob/main/logos/bootstrap-5-seeklogo.com.svg" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/BARAA-201/BARAA-201/blob/main/logos/material-ui-seeklogo.com.svg" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/BARAA-201/BARAA-201/blob/main/logos/react-seeklogo.com.svg" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/BARAA-201/BARAA-201/blob/main/logos/mysql-logo-svgrepo-com.svg" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/BARAA-201/BARAA-201/blob/main/logos/nodejs-seeklogo.com.svg" align="left" height="48" width="48" ></a>
 
-![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)
+............................
+
+![linkedin](https://img.shields.io/badge/linkedin-#0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 
