@@ -15,7 +15,10 @@ I have some projects I worked on before and there are some random codes that I u
 
 ![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)
 
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=#61DAFB)
+
+
+<a href="url"><img src="" align="left" height="48" width="48" ></a>
+
 
 ![inkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)
 
