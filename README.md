@@ -12,6 +12,7 @@
 ## Skills:
 
 <img src="https://github.com/BARAA-201/BARAA-201/blob/main/logos/html5-with-wordmark-color.svg"  alt="pic" align="left" height="48" width="48" >  
+
 <img src="https://github.com/BARAA-201/BARAA-201/blob/main/logos/css-3-svgrepo-com.svg" alt="pic" align="left" height="48" width="48" >  
 <img src="https://github.com/BARAA-201/BARAA-201/blob/main/logos/javascript.svg" alt="pic" align="left" height="48" width="48" ></a>  
 <img src="https://github.com/BARAA-201/BARAA-201/blob/main/logos/bootstrap-5-seeklogo.com.svg" alt="pic" align="left" height="48" width="48" >  
@@ -20,6 +21,7 @@
 <img src="https://github.com/BARAA-201/BARAA-201/blob/main/logos/nodejs-seeklogo.com.svg" alt="pic" align="left" height="48" width="48" >
 <img src="https://github.com/BARAA-201/BARAA-201/blob/main/logos/sequelize-seeklogo.com.svg"  alt="pic" align="left" height="48" width="48" >  
 <img src="https://github.com/BARAA-201/BARAA-201/blob/main/logos/git-seeklogo.com.svg"  alt="pic" align="left" height="48" width="48" > 
+
 <br />   
  
  
